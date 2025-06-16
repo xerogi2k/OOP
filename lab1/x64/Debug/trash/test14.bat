@@ -1,0 +1,3 @@
+@echo off
+echo Running a program with the wrong number of arguments...
+C:\Users\sergeygusev\Desktop\vs\lab1\x64\Debug\lab1.exe
